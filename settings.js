@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6285783062411'] //ur owner number
-global.ownername = "🦄Abrul gans" //ur owner name
-global.ytname = "YT: Abrul" //ur yt chanel name
-global.socialm = "GitHub:Yanamuana" //ur github or insta name
+global.vcardowner = ['6289502047901'] //ur owner number
+global.ownername = "🦄sya" //ur owner name
+global.ytname = "YT: Sya" //ur yt chanel name
+global.socialm = "GitHub:Sya" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['6285783062411']
-global.ownertag = '6285783062411' //ur tag number
-global.botname = 'Yana V5 limitid' //ur bot name
-global.linkz = "https://youtu.be/WiIqdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdDjFo" //ur website to be displayed
+global.owner = ['6289502047901']
+global.ownertag = '6289502047901' //ur tag number
+global.botname = 'Blue Bot' //ur bot name
+global.linkz = "https://youtu.be/WIqdiDjFo" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtu.be/WiIqCDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/kepo/kontol' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Yana bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Abrul gand" //ur sticker watermark author
+global.packname = "Blue bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "🦄Sya cans" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['6285783062411'] //ur premium numbers
+global.premium = ['6289502047901'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
